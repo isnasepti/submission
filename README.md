@@ -20,9 +20,9 @@ babel
 ```
 python -m venv dico
 ```
-## activate
+## activate venv
 ```
-myenv\Scripts\activate
+dico\Scripts\activate
 ```
 
 ## Setup Environment - Shell/Terminal
